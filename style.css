@@ -12,10 +12,6 @@ body{
     margin-bottom: 100px;
 }
 
-.fancy-letter{
-    
-}
-
 .orange-button{
     text-decoration: none;
     background-color:tomato;
@@ -23,6 +19,14 @@ body{
     border-radius: 5px;
     color: white;
     font-weight: bold;
+}
+
+.banner{
+    margin-top:5% ;
+}
+
+.banner-left{
+    margin-left: 3%;
 }
 
 .banner-header{
@@ -35,5 +39,20 @@ body{
 
 .banner-header h1{
     padding-left: 1.5%;
-    line-height: 80%;
+    line-height: 75%;
+    font-size: 60px;
+    font-weight: 500;
+}
+
+.banner-para p{
+    width: 70%;
+    margin-bottom: 5%;
+}
+
+.fancy-letter{
+    color: orange;
+}
+
+.banner-image img{
+    height: 80%;
 }
