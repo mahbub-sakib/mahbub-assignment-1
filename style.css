@@ -1,5 +1,6 @@
 body{
     font-family: Calibri;
+    margin: 0;
 }
 
 .half-portion{
@@ -145,4 +146,20 @@ body{
 .c2{
     background-position-x: 100%;
     background-position-y: 100%;
+}
+
+footer h1{
+    font-family: Lucida Calligraphy;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.footer-year{
+    color:lightcoral;
 }
