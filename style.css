@@ -9,7 +9,6 @@ body{
 
 .flexy-items{
     display:flex;
-    margin-bottom: 100px;
 }
 
 .orange-button{
@@ -55,4 +54,42 @@ body{
 
 .banner-image img{
     height: 80%;
+}
+
+.general-header h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.mission .general-header{
+text-align: center;
+}
+
+.mission-container{
+    display:flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.mission-box{
+    padding: 0 3%;
+    border-radius: 20px;
+    margin: 0 1%;
+}
+
+.mission-box img{
+    width: 30%;
+    padding-top: 5%;
+}
+
+.mbox1{
+    background-color: lightcyan;   
+}
+
+.mbox2{
+    background-color: rgb(250, 232, 234);   
+}
+
+.mbox3{
+    background-color: rgb(243, 215, 215);   
 }
