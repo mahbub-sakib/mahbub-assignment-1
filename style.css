@@ -95,6 +95,14 @@ body{
     background-color: rgb(243, 215, 215);   
 }
 
+.mid-container{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size:  10% 50%;
+    background-position-x: 3.5%;
+    background-position-y: 20%;
+}
+
 .mid-container img{
     width: 20%;
     padding-left: 8%;
