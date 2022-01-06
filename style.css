@@ -96,28 +96,25 @@ body{
 }
 
 .mid-container{
-    background-image: url(images/shapes/shape-1.png);
-    background-repeat: no-repeat;
-    background-size:  10% 50%;
-    background-position-x: 3.5%;
-    background-position-y: 20%;
+
+    margin:5%;
+    width: 80%;
+    padding:5%;
 }
 
 .mid-container img{
-    width: 20%;
-    padding-left: 8%;
-    
-   /* border: 7px solid; */
+    width: 35%;
+    /* padding: 8%; */
 }
 
 .mid-container-items{
-    padding-left: 5%;
-    width: 50%;
+    /* padding: 5%; */
+    width: 65%;
     margin-top: 2%;
 }
 
 .mid-container h3{
-    font-size: 30px;
+    font-size: 50px;
     font-weight: 900;
     margin: 0px;
     
@@ -125,4 +122,27 @@ body{
 
 .mid-container p{
     margin-bottom: 5%;
+        font-size: 20px;
+    font-weight: 500;
+}
+
+.mid-container span{
+    width: 10%;
+}
+
+.circle-img{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size:  15% 35%   ; 
+
+}
+
+.c1{
+    background-position-x: 0;
+    background-position-y: 30%;
+}
+
+.c2{
+    background-position-x: 100%;
+    background-position-y: 100%;
 }
